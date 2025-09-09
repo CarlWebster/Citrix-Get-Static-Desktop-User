@@ -1,7 +1,7 @@
 # Get-Static-Desktop-User
 Get Static Desktop User
 
-Creates a text file of users assigned to static desktops in a Citrix XenDesktop    7.x/18xx/19xx/20xx Site.
+Creates a text file of users assigned to static desktops in a Citrix XenDesktop 7.x/18xx/19xx/20xx Site.
 
 This script runs best in PowerShell version 5.
 
